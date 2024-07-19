@@ -1,5 +1,5 @@
 # Recycling-World
-This was my first project in my first year Computer Science Course with the theme of Environment and was coded in processing.
+This was my first project in my first year Computer Science Course with the theme of Environment and was coded in processing with the help of fellow students and Computer Science Centre.
 This is a game fully written in processing which implements a code that will be based on the sustainable environment theme.
 This is a simple game where the player needs to sort items into the correct recycling bins by dragging and dropping them.
 These items can include paper, plastic, glass, and organic waste. 
